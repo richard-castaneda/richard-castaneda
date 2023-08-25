@@ -5,6 +5,9 @@
   </ul>
 </div>
 
+[![Rich Data Lab](https://discord.com/channels/@me/1026338459763343501)](https://richdatalab.com/)
+
+
 <h3 align="center">Connect with me</h3>
 
 
