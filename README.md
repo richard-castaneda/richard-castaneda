@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Richard Castanedat</h1></summary>
+    <summary><h1 style="display: inline-block">Richard Castaneda</h1></summary>
   </ul>
 </div>
 
@@ -19,11 +19,9 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Data Analytics Professional</h2></summary>
   </ul>
 
-<h1 align="center">Hi 👋, I'm Richard Castaneda</h1>
-<h3 align="center">Data Analytics Professional</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207/screenshots/3848914/programmer.gif">
 
