@@ -19,23 +19,13 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Data Analytics Professional</h2></summary>
+    <summary><h2 style="display: inline-block">Data Analytics</h2></summary>
   </ul>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richard-castaneda&label=Profile%20views&color=0e75b6&style=flat" alt="richard-castaneda" /> </p>
 
 <p align="left"> <a href="https://twitter.com/richdatalab" target="blank"><img src="https://img.shields.io/twitter/follow/richdatalab?logo=twitter&style=for-the-badge" alt="richdatalab" /></a> </p>
-
-- Universal Language [Aperiodic Monotile](https://github.com/richard-castaneda/A-New-Language)
-
-- 🌱 I’m currently learning **React Native and NLP**
-
-- Monotile [Aperiodic Monotile](https://github.com/richard-castaneda/A-New-Language)
-
-- 📝 I regularly write articles on [https://medium.com/@richard-castaneda](https://medium.com/@richard-castaneda)
-
-- 💬 Ask me about **Machine Learning Topics**
 
 - 📫 How to reach me **richdatalab@gmail.com**
 
