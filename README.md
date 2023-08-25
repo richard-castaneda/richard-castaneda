@@ -29,24 +29,7 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img src="https://github.com/richard-castaneda/richard-castaneda/blob/main/resources/img/grid-snake.svg" alt="snake" />
-</div>
-
-
-
-
-![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richard-castaneda&show_icons=true&theme=tokyonight)  ![Richard GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richard-castaneda&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard-castaneda&theme=tokyonight)
-
-
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Data Analytics</h2></summary>
-  </ul>
+![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richard-castaneda&show_icons=true&theme=tokyonight)  ![Richard GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richard-castaneda&theme=tokyonight)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richard-castaneda&label=Profile%20views&color=0e75b6&style=flat" alt="richard-castaneda" /> </p>
