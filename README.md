@@ -8,6 +8,7 @@
   </ul>
 </div>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=richard-castaneda&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
 <!--- snake -->
 <div align="center">
@@ -45,3 +46,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richard-castaneda&show_icons=true&locale=en" alt="richard-castaneda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richard-castaneda&" alt="richard-castaneda" /></p>
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
