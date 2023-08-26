@@ -1,5 +1,6 @@
-### My Website ###
+### richdatalab.com ###
 
+---
 <p align="center">
   <img src="https://github.com/richard-castaneda/Python_Animations/blob/main/test%202.png" alt="Rich Data Lab" />
 </p>
@@ -31,7 +32,6 @@
 ---
 
 
-![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richard-castaneda&show_icons=true&theme=tokyonight)
 ![Richard's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=richard-castaneda&theme=tokyonight)
 
 ---
