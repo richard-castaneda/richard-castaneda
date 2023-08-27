@@ -22,7 +22,7 @@
   <a href="https://twitter.com/RichDataLab">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://www.leetcode.com/example">
+  <a href="https://leetcode.com/richardcastaneda/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
   <a href="mailto:richardcastaneda@my.unt.edu?subject=Feedback%20From%20Github&body=Hello,">
