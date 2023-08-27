@@ -19,7 +19,7 @@
   <a href="https://medium.com/@richard-castaneda">
     <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
-  <a href="https://twitter.com/example">
+  <a href="https://twitter.com/RichDataLab">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://www.leetcode.com/example">
