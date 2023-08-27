@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/example">
+  <a href="https://linkedin.com/in/example](https://www.linkedin.com/in/r-castaneda/">
     <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://medium.com/@richard-castaneda">
