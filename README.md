@@ -19,8 +19,8 @@
   <a href="https://medium.com/@richard-castaneda">
     <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
-  <a href="https://twitter.com/RichDataLab">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://www.datacamp.com/portfolio/rcastaneda">
+    <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" alt="DataCamp">
   </a>
   <a href="https://leetcode.com/richardcastaneda/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
