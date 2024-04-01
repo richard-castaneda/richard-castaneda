@@ -32,7 +32,6 @@
 
 ---
 
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=richard-castaneda&theme=tokyonight" alt="Richard's GitHub Streak">
 </p>
