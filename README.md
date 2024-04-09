@@ -36,9 +36,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=richard-castaneda&theme=tokyonight" alt="Richard's GitHub Streak">
 </p>
 
-
 ---
-
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
